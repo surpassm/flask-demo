@@ -16,3 +16,8 @@ if __name__ == '__main__':
 # pip freeze > requirements.txt
 # python manager.py runserver
 
+# 阿里支付第三方tools :https://github.com/fzlee/alipay pip install
+
+
+
+
